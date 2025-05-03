@@ -1,0 +1,26 @@
+
+# === FRONTEND (Vite + React) ===
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.DS_Store
+frontend/.vscode/
+
+# === BACKEND (Spring Boot) ===
+backend/target/
+backend/.idea/
+backend/.DS_Store
+backend/.vscode/
+backend/.env
+
+# === GENERAL ===
+*.log
+*.iml
+.env
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
